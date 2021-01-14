@@ -6,7 +6,7 @@ This repo contains all the material I've gathered in my own journey of learning 
 
 I live tweeted my first 10 or so attempts at making ramen. They are all strung together in [this rather dense twitter thread](https://twitter.com/reckoner165/status/1234670034896605186?s=20)
 ## Readings
-- [Book of Ramen](https://docs.google.com/document/d/1qLPoLxek3WLQJDtU6i3300_0nNioqeYXi7vESrtNvjQ/edit)
+- [Book of Ramen](https://docs.google.com/document/d/1qLPoLxek3WLQJDtU6i3300_0nNioqeYXi7vESrtNvjQ/edit) - [_notes_](https://reckoner165.github.io/posts/20210113193359-book_of_ramen/)
 - [Ivan Ramen: Love, Obsession, and Recipes from Tokyo's Most Unlikely Noodle Joint ](https://www.amazon.com/Ivan-Ramen-Obsession-Recipes-Unlikely/dp/1607744465)
 
 ## Ramen recipe videos
